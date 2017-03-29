@@ -1,0 +1,18 @@
+TASK myapp.dating.shravan.datingapp1 id=192
+  ACTIVITY myapp.dating.shravan.datingapp1/.activity.Splash 27e64dbd pid=6401
+    Local FragmentActivity 2f95f39f State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@3f0d5cec
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@3f0d5cec
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{3588a8b5 V.E..... ... 0,0-1440,2560}
+        android.widget.LinearLayout{1f952b4a V.E..... ... 0,0-1440,2560}
+          android.view.ViewStub{2af02abb G.E..... ... 0,0-0,0 #102036e}
+          android.widget.FrameLayout{3ce95bd8 V.E..... ... 0,0-1440,2560}
+            android.support.v7.widget.FitWindowsLinearLayout{2a681b31 V.E..... ... 0,0-1440,2560 #7f0d005b app:id/action_bar_root}
+              android.support.v7.widget.ViewStubCompat{3f82b216 G.E..... ... 0,0-0,0 #7f0d005c app:id/action_mode_bar_stub}
+              android.support.v7.widget.ContentFrameLayout{2fecb797 V.E..... ... 0,0-1440,2560 #1020002 android:id/content}
+                android.widget.RelativeLayout{1d845d84 V.E..... ... 0,0-1440,2560}

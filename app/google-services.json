@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1032206593021",
+    "firebase_url": "https://datingapp-15b05.firebaseio.com",
+    "project_id": "datingapp-15b05",
+    "storage_bucket": "datingapp-15b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032206593021:android:837cadd791b95a5c",
+        "android_client_info": {
+          "package_name": "myapp.dating.shravan.datingapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032206593021-b56h044nojt64vbn37c2n2c8e2hqli2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myapp.dating.shravan.datingapp1",
+            "certificate_hash": "C240659EFB93545F58C9937C8C0CE96CEE00C66A"
+          }
+        },
+        {
+          "client_id": "1032206593021-dslfoe8viq1v1uao64a1lajeir0js06r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1032206593021-i230bq02jkafim83lvct74dltc5k46gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLtqa9YxVR44chXVcy4DM0SLZlk52Ovc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032206593021-dslfoe8viq1v1uao64a1lajeir0js06r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
